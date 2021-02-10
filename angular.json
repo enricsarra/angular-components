@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-components"
+  "defaultProject": "angular-components",
+  "cli": {
+    "analytics": false
+  }
 }
